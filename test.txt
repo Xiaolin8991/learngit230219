@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hshglsgj
+=======
+test
+>>>>>>> 6ee6b33 (first commit)
